@@ -1,0 +1,1 @@
+Proyecto realizado para aprender, implementar y usar WEBPACK en un proyecto. Se trata de elegir unas piezas de Shushi y añadirlas a una "cinta" de compra. En sí no es importante el resultado visual del proyecto si no la utilización de WEBPACK en el mismo.
